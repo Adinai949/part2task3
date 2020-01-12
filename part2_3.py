@@ -1,0 +1,5 @@
+number = int(input('Введите число: '))
+previos_num = str(number - 1)
+next_num = str(number + 1)
+print('Предыдущее число:' + previos_num)
+print('Следующее число:' + next_num)
